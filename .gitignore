@@ -1,0 +1,13 @@
+*.o
+*.a
+*.so
+*.swp
+*.swo
+a.out
+main
+main_static
+main_shared
+main_dynamic
+main_gprof
+my_assert_test
+gmon.out
